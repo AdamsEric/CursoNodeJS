@@ -22,4 +22,4 @@ Para executar o projeto utilizando o Docker, é necessário:
 
 ## Acesso à API
 
-O caminho padrão de acesso aos métodos da API se encontra em `localhost:3000/api`.
+O caminho padrão de acesso aos métodos da API se encontra em `localhost:3000/api` (executado manualmente) e `localhost:8080/api` (executado utilizando um conteiner do Docker).
